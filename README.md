@@ -1,9 +1,9 @@
-# SMART HOME ENERGY MANAGEMENT WITH DRL
+# SMART HOME ENERGY TRADING WITH DRL
 This python library storest code for a conference paper about smart home energy management using Deep Reinforcement Learning. It is possible for the user to train their own DRL agent, as well as load pre-trained models and test the agent's performance.
 
 ## Installation
 To begin using the code, just clone the repository:
-```git clone https://github.com/maticpokorn/HEMS_DQN.git```
+```git clone https://github.com/sensorlab/smart-home-energy-trading-with-DRL.git```
 
 ## Dependencies
 The project requires the following libraries to be installed:
@@ -104,7 +104,7 @@ project
 ```
 
 ## Links
-Repository: https://github.com/maticpokorn/HEMS_DQN.git
+Repository: https://github.com/sensorlab/smart-home-energy-trading-with-DRL.git
 ## Licensing
 Copyright 2023 Matic Pokorn
 The code in this project is licensed under MIT license.
