@@ -103,8 +103,34 @@ project
     │...  
 ```
 
+## Citation
+If you are using our datasets or scripts in your research, citation of the following paper would be greatly appreciated.
+
+[Matic Pokorn, Mihael Mohorčič, Andrej Čampa, and Jernej Hribar (2023). Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3600100.3625684)
+
+```
+@inproceedings{10.1145/3600100.3625684,
+author = {Pokorn, Matic and Mohor\v{c}i\v{c}, Mihael and \v{C}ampa, Andrej and Hribar, Jernej},
+title = {Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning},
+year = {2023},
+isbn = {9798400702303},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3600100.3625684},
+doi = {10.1145/3600100.3625684},
+abstract = {Dynamic pricing for electrical energy provision is recently being adopted in several countries. While it is primarily intended to help Distribution System Operators (DSOs) improve load balancing, it also provides an opportunity to smart homes equipped with power generation units such as photovoltaics (PV) and energy storage systems to take advantage of pricing changes and thus reduce overall costs. However, the latter case remains largely unexplored in the literature, as most research focuses on community-based optimisation or managing energy consumption by controlling smart home appliances. To address this gap, we propose a Deep Reinforcement Learning (DRL)-based approach to single house energy trading that can reduce energy costs in a smart home. We demonstrate in a simulated environment with two energy pricing schemes that our solution can minimise the total cost of energy provision. Moreover, we show that the learned energy trading approach leads to up to 47.66\% lower costs for end users compared to conventional rule-based approaches.},
+booktitle = {Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+pages = {361–365},
+numpages = {5},
+keywords = {Deep Reinforcement Learning, Energy Trading, HEMS},
+location = {Istanbul, Turkey},
+series = {BuildSys '23}
+}
+```
+
 ## Links
-Repository: https://github.com/sensorlab/smart-home-energy-trading-with-DRL.git
+SensorLab: https://sensorlab.ijs.si/
+
 ## Licensing
 Copyright 2023 Matic Pokorn
 The code in this project is licensed under MIT license.
